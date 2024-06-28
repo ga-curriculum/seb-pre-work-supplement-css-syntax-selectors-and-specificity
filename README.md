@@ -1,6 +1,6 @@
 <textarea id="source">
 
-<h1 class="slide-header">tktk content title</h1>
+<h1 class="slide-header">CSS Syntax Selectors and Specificity</h1>
 
 <span id=time-estimate class="color-grey-500">tktk mins</span>
 
